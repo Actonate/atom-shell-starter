@@ -1,0 +1,19 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Actonate/atom-shell-starter",
+  "authors": [
+    "Shoaib Merchant <shoaib@actonate.com>"
+  ],
+  "description": "Sample notes application in Atom Shell",
+  "main": "main.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
