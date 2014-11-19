@@ -1,0 +1,5 @@
+{
+  "name"    : "atom-shell-notes-app",
+  "version" : "0.1.0",
+  "main"    : "main.js"
+}

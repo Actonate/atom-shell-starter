@@ -1,23 +1,19 @@
 {
-  "name": "notes-app",
+  "name": "angular-starter",
   "version": "1.0.0",
-  "description": "Sample notes taking app built in Angular, running on Atom Shell",
-  "main": "main.js",
+  "description": "Learning Angular project",
+  "main": "src/app/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node --match-all ./test/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Actonate/atom-shell-starter.git"
+    "url": "https://github.com/Actonate/angular-starter.git"
   },
-  "author": "Shoaib Merchant",
+  "author": "Actonate",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Actonate/atom-shell-starter/issues"
+    "url": "https://github.com/Actonate/angular-starter/issues"
   },
-  "homepage": "https://github.com/Actonate/atom-shell-starter",
-  "devDependencies": {
-    "karma-chrome-launcher": "^0.1.5",
-    "karma-jasmine": "^0.2.3"
-  }
+  "homepage": "https://github.com/Actonate/angular-starter"
 }
